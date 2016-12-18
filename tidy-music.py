@@ -2,7 +2,6 @@ import mutagen
 import mutagen.mp3
 import os
 import errno
-import mimetypes
 
 input_path = '.'
 base_path = os.path.realpath(input_path)
